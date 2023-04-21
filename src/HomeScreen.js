@@ -9,6 +9,7 @@ const HomeScreen = () => {
 		<div className='homeScreen'>
 			{/* Nav */}
 			<Nav />
+			
 			{/* Banner */}
 		</div>
 	);
